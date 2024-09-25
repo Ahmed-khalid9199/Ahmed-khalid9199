@@ -47,6 +47,6 @@ I'm a **full-stack developer** with nearly **three years of experience** special
 - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/83996e1a778f1d9e138a8bd06643205f)
 
 ### 📫 Get In Touch
-- **LinkedIn**: [Your LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ahmed-khalid-789136149/))
-- **Email**: [your.email@example.com](mailto:ahmedkhalid9199@gmail.com)
+- **LinkedIn**: https://www.linkedin.com/in/ahmed-khalid-789136149/
+- **Email**: ahmedkhalid9199@gmail.com
 - **GitHub**: You're already here! Feel free to explore my repositories.
