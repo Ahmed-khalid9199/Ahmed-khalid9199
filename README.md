@@ -45,6 +45,7 @@ I'm a **full-stack developer** with nearly **three years of experience** special
 ### Certifications
 - [Neural Networks and Deep Learning](https://coursera.org/share/ad06ba088c517bd99bd27e5641fb2abe)
 - [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/83996e1a778f1d9e138a8bd06643205f)
+- [Effective MLOps - Model Development](https://www.credential.net/f30199f2-c7cd-4926-b2a0-9914c1cbdff6#gs.hmo44g#acc.HzrLZ32g)
 
 ### 📫 Get In Touch
 - **LinkedIn**: https://www.linkedin.com/in/ahmed-khalid-789136149/
